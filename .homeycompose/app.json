@@ -1,0 +1,29 @@
+{
+  "id": "com.lesierse.aws",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local",
+    "cloud"
+  ],
+  "name": {
+    "en": "AWS"
+  },
+  "description": {
+    "en": "Integrates with Amazon Web Services"
+  },
+  "category": [
+    "internet"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Vincent Lesierse",
+    "email": "vincent@lesierse.com"
+  }
+}
